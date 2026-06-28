@@ -4,6 +4,6 @@
 &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/8c2c34a1-0877-4b02-84e5-21760fd44624"/>&nbsp;
 <a href="https://rentry.co/TEN_RENTRY">ata</a>
 &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/8c2c34a1-0877-4b02-84e5-21760fd44624"/>&nbsp;
-<a href="https://straw.page/TEN_STRAWPAGE">strawpage</a>
+<a href="https://dawnsummer.straw.page/">strawpage</a>
 
 </p>
