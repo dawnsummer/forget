@@ -1,8 +1,8 @@
 <p align="center">
 <a href="https://discord.gg/J2kZWEZe">discord</a>
-&nbsp;<img width="25" height="20" alt="Image" src="https://github.com/user-attachments/assets/8c2c34a1-0877-4b02-84e5-21760fd44624"/>&nbsp;
+&nbsp;<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3e6ce319-e8a3-457a-b6bb-35304a86dad6" />&nbsp;
 <a href="https://summercutie.atabook.org/">ata</a>
-&nbsp;<img width="25" height="20" alt="Image" src="https://github.com/user-attachments/assets/8c2c34a1-0877-4b02-84e5-21760fd44624"/>&nbsp;
+&nbsp;<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3e6ce319-e8a3-457a-b6bb-35304a86dad6" />&nbsp;
 <a href="https://dawnsummer.straw.page/">strawpage</a>
 
 </p>
