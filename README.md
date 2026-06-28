@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://discord.gg/J2kZWEZe">discord</a>
+<a href="https://discord.gg/J2kZWEZe">𝓭𝓲𝓼𝓬𝓸𝓻𝓭</a>
 &nbsp;<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3e6ce319-e8a3-457a-b6bb-35304a86dad6" />&nbsp;
-<a href="https://summercutie.atabook.org/">ata</a>
+<a href="https://summercutie.atabook.org/">𝓪𝓽𝓪</a>
 &nbsp;<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3e6ce319-e8a3-457a-b6bb-35304a86dad6" />&nbsp;
-<a href="https://dawnsummer.straw.page/">strawpage</a>
+<a href="https://dawnsummer.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮</a>
 
 </p>
 <p align="center">
