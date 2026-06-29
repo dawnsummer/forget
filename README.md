@@ -7,5 +7,5 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/da8c92d9-2a1d-4540-bf0b-e1e6bac0e4e2" height="600">
+<img src="https://github.com/user-attachments/assets/a7e05315-14e9-43f6-967f-c11e1ab0ad39" height="600">
 </p>
