@@ -9,3 +9,8 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a7e05315-14e9-43f6-967f-c11e1ab0ad39" height="600">
 </p>
+<div align="center">
+
+<a href="https://github.com/forgottenjune">𝖒𝖞 𝖇𝖑𝖆𝖈𝖐𝖑𝖎𝖘𝖙 </a>
+
+</div>
