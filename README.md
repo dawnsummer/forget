@@ -14,3 +14,8 @@
 <a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a>
 
 </div>
+<div align="center">
+
+<h2>𝓫𝓽𝔀, 𝓲𝓶 𝓪 𝓼𝓾𝓹𝓹𝓸𝓻𝓽𝓮𝓻 𝓸𝓯 @𝓶𝓸𝓾𝓻𝓷𝓲𝓷𝓰𝓼𝓽𝓪𝓻-00 𝓪𝓷𝓭 @𝓛𝓾𝓷𝓪𝓻𝓪𝓟𝓮𝓽𝓪𝓵</h2>
+
+</div>
