@@ -11,6 +11,6 @@
 </p>
 <div align="center">
 
-<a href="https://github.com/forgottenjune">𝖒𝖞 𝖇𝖑𝖆𝖈𝖐𝖑𝖎𝖘𝖙 </a>
+<a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a>
 
 </div>
