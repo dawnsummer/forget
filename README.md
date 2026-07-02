@@ -17,6 +17,9 @@
 
 </div>
 
+<p align="center">
+<img src="https://i.pinimg.com/originals/09/69/9a/09699aaf0fd4832349f3eb0080933d5a.gif" height="600">
+
 <a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a>
 
 </div>
